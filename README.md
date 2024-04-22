@@ -1,4 +1,4 @@
-# Closed Address Hashing (Chaining) with HashArray
+# Closed/Open Address Hashing (Chaining) with hasharray
 
 ## Overview
 

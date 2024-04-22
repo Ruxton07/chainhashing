@@ -4,11 +4,11 @@ build-backend = "hatchling.build"
 
 [project]
 name = "chainhashing"
-version = "0.0.2"
+version = "1.0.0"
 authors = [
   { name="Ruxton", email="rt.kellar@gmail.com" },
 ]
-description = "A package for closed addressing hashing tables that require chaining with link lists."
+description = "A package for closed/open addressing hashing tables that require chaining with linked lists."
 readme = "README.md"
 requires-python = ">=3.8"
 classifiers = [
