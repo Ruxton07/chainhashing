@@ -1,4 +1,4 @@
-from chainhashing.hasharray import hasharray
+from chainhashing.claddress import hasharray
 import pytest
 
 def test_hFunc():
