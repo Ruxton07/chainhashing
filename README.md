@@ -11,7 +11,7 @@ The hasharray package provides an implementation of closed address hashing (chai
 
 ## Installation
 
-To use the hasharray package, you need to have Python installed. You can install the package using pip:
+To use the chainhashing package, you need to have Python installed. You can install the package using pip:
 
 ```
 pip install chainhashing
